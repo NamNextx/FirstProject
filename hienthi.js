@@ -1,3 +1,3 @@
 function hienthind() {
-    alert("Toi se lam duoc");
+    alert("Xin chao ban");
 }
